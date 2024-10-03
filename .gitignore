@@ -32,3 +32,4 @@ bin
 /Build/OpenGLDebug.log
 /Source/Native/*.log
 /Build/builder
+Build/mono_crash.8c106a6f6.0.json
